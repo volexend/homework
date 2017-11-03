@@ -1,0 +1,52 @@
+.elements {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.x1 {
+  background-color: #de9797;
+  height: 70px;
+}
+
+.x2 {
+  background-color: #979ade;
+  height: 50px;
+}
+
+.x3 {
+  background-color: #97de99;
+  height: 30px;
+}
+
+.x4 {
+  background-color: #ddde97;
+  height: 100px;
+}
+
+.x5 {
+  background-color: #dec997;
+  height: 90px;
+}
+
+.x6 {
+  background-color: #97deda;
+  height: 60px;
+}
+
+.x7 {
+  background-color: #de97d8;
+  height: 10px;
+}
+
+.x8 {
+  background-color: #b097de;
+  height: 35px;
+}
+
+.column {
+  position: relative;
+  width: 50px;
+  text-align: center;
+}
+

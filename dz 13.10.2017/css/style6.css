@@ -1,0 +1,61 @@
+.red{
+  	width: 100px;
+  	height: 100px;
+  	background: #ff8f8f;
+  	opacity: 0.7;
+  	position: relative;
+  	top: 30px;
+  	left: 20px;
+}
+
+.red:hover{
+	width: 100px;
+  	height: 100px;
+  	background: #ff8f8f;
+  	position: relative;
+  	top: 30px;
+  	left: 20px;
+  	z-index: 1;
+}
+
+.green{
+	width: 100px;
+	height: 100px;
+	background: #8fff8f;
+	opacity: 0.7;
+	position:absolute;
+	top:57px;
+	left:45px;
+
+}
+
+.green:hover{
+	width: 100px;
+	height: 100px;
+	background: #8fff8f;
+	position:absolute;
+	top:57px;
+	left:45px;
+	z-index: 1
+}
+
+.blue{
+	width: 100px;
+	height: 100px;
+	background: #8f8fff;
+	opacity: 0.7;
+	position: absolute;
+    top: 75px;
+    left: 65px;
+
+}
+
+.blue:hover{
+	width: 100px;
+  	height: 100px;
+  	background: #8f8fff;
+  	position: absolute;
+  	top: 75px;
+  	left: 65px;
+  	z-index: -1
+}

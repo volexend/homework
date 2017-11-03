@@ -1,0 +1,15 @@
+h1 {
+background: #ccc;
+text-align: center;	
+}
+
+article{
+	background: #fff;
+	font-style: italic;
+	font-size: 18px;
+}
+
+footer {
+	background: #ccc;
+text-align: center;
+}

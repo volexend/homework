@@ -1,0 +1,22 @@
+thead{
+	background:#000;
+	color: #fff;
+	font-size: 1.3rem;
+	text-align: center;
+	font-style: bold;
+
+}
+
+
+table tr:nth-child(2n+2) {
+     background: #ccc;
+}
+
+table tr td:first-child(2) {
+     background: #fff;
+}
+
+table tr td:last-child{
+	text-align: right;
+}
+

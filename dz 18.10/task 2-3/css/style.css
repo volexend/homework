@@ -1,0 +1,24 @@
+body {
+  box-shadow: -0 0 10px;
+}
+article,
+.subcontainer {
+display: flex;
+}
+.subcontainer,
+.leftsubcontent,
+.centersubcontent,
+.rightsubcontent,
+.leftnav,
+header,
+footer,
+.subheader,
+.subfooter {
+padding: 10px;
+}
+.leftnav {
+  width: 50%;
+}
+.image {
+  width: 100%;
+}

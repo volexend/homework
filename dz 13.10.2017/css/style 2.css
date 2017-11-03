@@ -1,0 +1,25 @@
+* {
+margin: 0;
+padding: 0;
+}
+li:first-child a {
+	font-weight: bold; 
+   	font-size: 1.5em;
+    }
+li:first-child:before {
+	display:block; content: "-"; height: 1px;
+	background: #000
+}
+
+li:last-child:after {
+	display:block; content: "-"; height: 1px;
+	background: #000
+}
+a {
+	text-decoration: none;
+	color: #000;
+}
+a:hover {
+	color: #999;
+	text-decoration: underline;
+}

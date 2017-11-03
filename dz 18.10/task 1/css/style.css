@@ -1,0 +1,64 @@
+.body{
+    margin-left: 250px;
+        display:  block;
+}
+
+.text{
+	
+	float: left;
+    width: 100%;
+    text-shadow: 1px 1px 1px grey, 0 0 1em grey; 
+    color: black; 
+    font-size: 1.1em;
+}
+
+.content{
+    position: absolute;
+    width: 600px;
+    float: left;
+}
+
+.nav{
+   width: 300px;
+position: fixed; /*--Fix the sidenav to stay in one spot--*/
+float: left; 
+top: 144px;
+
+ }
+
+.left{
+	display: block;
+    float: left;
+    width: 30%;
+    margin-top: 0px;
+    margin: 10px;
+}
+
+.middle{
+	display: block;
+    float: left;
+    width: 30%;
+    margin-top: 0px;
+    margin: 10px;
+
+}
+
+.right{
+	display: block;
+    float: left;
+    width: 30%;
+    margin-top: 0px;
+    margin: 10px;
+}
+
+.x1{
+	margin: 50px;
+}
+
+.x2{
+	margin: 50px;
+}
+
+.x3{
+	margin: 50px;
+}
